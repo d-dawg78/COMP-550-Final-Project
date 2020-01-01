@@ -8,5 +8,4 @@
 
 #### The repository contains our report, our Jupyter Notebook files, our data mining scripts, and finally the datasets used!
 
-#### The pretrained GloVe embeddings we used can be downloaded here: 
-http://nlp.stanford.edu/data/glove.6B.zip.
+#### The pretrained GloVe embeddings we used can be downloaded here: http://nlp.stanford.edu/data/glove.6B.zip.
