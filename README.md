@@ -1,4 +1,4 @@
-#### Final Project Submission for COMP 550 (Natural Language Processing) at McGill University!
+#### Final Project Submission for the Natural Language Processing at McGill University!
 
 #### Group: Dorian Desblancs, Jonah Nimijean, Jacob Sanz-Robinson
 
